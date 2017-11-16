@@ -1,2 +1,2 @@
 # tmux
-My Personal tmux config
+My personal tmux config
