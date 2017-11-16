@@ -1,2 +1,2 @@
 # tmux
-My personal tmux config using [Oh My tmux](https://github.com/gpakosz/.tmux)
+My personal Tmux config using [Oh My Tmux](https://github.com/gpakosz/.tmux)
